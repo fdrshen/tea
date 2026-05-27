@@ -1,0 +1,301 @@
+No,Category,Question,Option1,Option2,Option3,Option4,Option5,PredictedWinner,EstimatedWinRate
+1,Pop Culture,Greatest movie franchise of all time?,Marvel,Star Wars,Harry Potter,Lord of the Rings,Fast & Furious,Marvel,45-55%
+2,Pop Culture,Best Disney animated movie ever?,The Lion King,Frozen,Aladdin,Toy Story,Finding Nemo,The Lion King,35-42%
+3,Pop Culture,Most iconic villain of all time?,Joker,Darth Vader,Voldemort,Thanos,Hannibal Lecter,Joker,40-50%
+4,Pop Culture,Best Netflix original series?,Stranger Things,Squid Game,Money Heist,The Crown,Wednesday,Stranger Things,40-48%
+5,Pop Culture,Greatest anime of all time?,Naruto,One Piece,Dragon Ball,Attack on Titan,Death Note,One Piece,30-38%
+6,Pop Culture,Best video game of all time?,GTA V,Minecraft,The Witcher 3,Red Dead Redemption 2,Elden Ring,GTA V,35-42%
+7,Pop Culture,Most rewatchable sitcom?,Friends,The Office,How I Met Your Mother,Seinfeld,Brooklyn Nine-Nine,Friends,42-50%
+8,Pop Culture,Best Christopher Nolan film?,Inception,The Dark Knight,Interstellar,Tenet,Oppenheimer,The Dark Knight,40-48%
+9,Pop Culture,Greatest superhero of all time?,Superman,Batman,Spider-Man,Iron Man,Wonder Woman,Superman,38-45%
+10,Pop Culture,Best Marvel movie ever?,Avengers Endgame,Infinity War,Iron Man,Spider-Man No Way Home,Black Panther,Avengers Endgame,40-48%
+11,Pop Culture,Greatest TV drama of all time?,Breaking Bad,Game of Thrones,The Sopranos,The Wire,Better Call Saul,Breaking Bad,38-45%
+12,Pop Culture,Best Pixar film?,Toy Story,Up,Finding Nemo,The Incredibles,Wall-E,Toy Story,35-42%
+13,Pop Culture,Most overrated movie ever?,Titanic,Avatar,The Notebook,Frozen,La La Land,Titanic,30-38%
+14,Pop Culture,Best Quentin Tarantino film?,Pulp Fiction,Kill Bill,Django Unchained,Inglourious Basterds,Reservoir Dogs,Pulp Fiction,42-50%
+15,Pop Culture,Greatest comedy movie?,The Hangover,Superbad,Step Brothers,Anchorman,Dumb and Dumber,The Hangover,32-40%
+16,Pop Culture,Best horror movie ever?,The Shining,The Exorcist,Hereditary,Get Out,A Nightmare on Elm Street,The Shining,32-40%
+17,Pop Culture,Best cartoon for adults?,Rick and Morty,The Simpsons,South Park,Family Guy,Bojack Horseman,Rick and Morty,32-40%
+18,Pop Culture,Best Studio Ghibli film?,Spirited Away,My Neighbor Totoro,Princess Mononoke,Howls Moving Castle,Castle in the Sky,Spirited Away,45-55%
+19,Pop Culture,Greatest sci-fi movie ever?,Star Wars,The Matrix,Blade Runner,Interstellar,Inception,Star Wars,32-40%
+20,Pop Culture,Best Leonardo DiCaprio film?,Inception,Titanic,The Wolf of Wall Street,The Revenant,Catch Me If You Can,Inception,30-38%
+21,Tech,Best smartphone brand right now?,Apple,Samsung,Google Pixel,Xiaomi,OnePlus,Apple,50-58%
+22,Tech,Which AI will dominate by end of 2026?,ChatGPT,Gemini,Claude,Grok,DeepSeek,ChatGPT,55-65%
+23,Tech,Best laptop brand for professionals?,Apple,Dell,Lenovo,HP,ASUS,Apple,42-50%
+24,Tech,Most addictive social media app?,TikTok,Instagram,YouTube,Twitter (X),Facebook,TikTok,45-55%
+25,Tech,Best gaming console of all time?,PlayStation 2,Nintendo Switch,Xbox 360,PlayStation 5,Nintendo Wii,PlayStation 2,30-38%
+26,Tech,Best streaming service in 2026?,Netflix,Disney+,HBO Max,Amazon Prime,Apple TV+,Netflix,48-56%
+27,Tech,Most reliable browser?,Chrome,Safari,Firefox,Edge,Brave,Chrome,55-65%
+28,Tech,Best wireless earbuds?,AirPods Pro,Sony WF-1000XM5,Samsung Galaxy Buds,Bose QuietComfort,Jabra Elite,AirPods Pro,45-55%
+29,Tech,Best smartwatch in 2026?,Apple Watch,Samsung Galaxy Watch,Garmin,Fitbit,Google Pixel Watch,Apple Watch,50-60%
+30,Tech,Best electric car brand?,Tesla,BYD,Rivian,Lucid,Polestar,Tesla,55-65%
+31,Tech,Most innovative tech company?,Apple,Tesla,OpenAI,Nvidia,Google,OpenAI,30-38%
+32,Tech,Best operating system?,Windows 11,macOS,Linux,ChromeOS,iOS,Windows 11,40-48%
+33,Tech,Best email service?,Gmail,Outlook,Yahoo Mail,ProtonMail,iCloud Mail,Gmail,65-75%
+34,Tech,Best video conferencing tool?,Zoom,Google Meet,Microsoft Teams,Slack Huddles,Discord,Zoom,42-50%
+35,Tech,Most useful AI tool for daily life?,ChatGPT,Gemini,Notion AI,Grammarly,Midjourney,ChatGPT,55-65%
+36,Tech,Best photo editing app?,Lightroom,Photoshop,Snapseed,VSCO,Canva,Lightroom,32-40%
+37,Tech,Best note-taking app?,Notion,Apple Notes,Evernote,OneNote,Obsidian,Notion,38-45%
+38,Tech,Best music streaming service?,Spotify,Apple Music,YouTube Music,Amazon Music,Tidal,Spotify,55-65%
+39,Tech,Best password manager?,1Password,LastPass,Bitwarden,Dashlane,Apple Keychain,1Password,32-40%
+40,Tech,Best VPN service?,NordVPN,ExpressVPN,Surfshark,ProtonVPN,CyberGhost,NordVPN,32-40%
+41,Brand,Best fast food chain in the world?,McDonalds,KFC,Burger King,Subway,Starbucks,McDonalds,45-55%
+42,Brand,Best pizza chain globally?,Dominos,Pizza Hut,Papa Johns,Little Caesars,Local pizzeria,Dominos,38-45%
+43,Brand,Best soft drink ever made?,Coca-Cola,Pepsi,Sprite,Dr Pepper,Mountain Dew,Coca-Cola,55-65%
+44,Brand,Best coffee chain?,Starbucks,Tim Hortons,Dunkin,Costa,Local cafe,Starbucks,45-55%
+45,Brand,Most overrated food trend?,Avocado toast,Bubble tea,Acai bowls,Plant-based meat,Cronuts,Avocado toast,30-38%
+46,Brand,Best snack brand of all time?,Lays,Doritos,Pringles,Cheetos,Oreos,Lays,28-35%
+47,Brand,Best chocolate brand?,Cadbury,Hershey,Lindt,Ferrero Rocher,Toblerone,Cadbury,30-38%
+48,Brand,Best ice cream brand?,Ben & Jerrys,Haagen-Dazs,Magnum,Baskin-Robbins,Cornetto,Ben & Jerrys,32-40%
+49,Brand,Best chips brand?,Lays,Pringles,Doritos,Ruffles,Cheetos,Lays,32-40%
+50,Brand,Best burger chain?,McDonalds,Burger King,Five Guys,In-N-Out,Wendys,McDonalds,30-38%
+51,Brand,Best energy drink?,Red Bull,Monster,Rockstar,Bang,Celsius,Red Bull,55-65%
+52,Brand,Best beer brand globally?,Heineken,Corona,Budweiser,Guinness,Stella Artois,Heineken,30-38%
+53,Brand,Best whiskey brand?,Jack Daniels,Johnnie Walker,Jameson,Macallan,Crown Royal,Jack Daniels,32-40%
+54,Brand,Best cookie brand?,Oreo,Chips Ahoy,Famous Amos,Walkers,Pepperidge Farm,Oreo,55-65%
+55,Brand,Best instant noodle brand?,Indomie,Maggi,Nissin,Samyang,Mr Noodle,Indomie,30-38%
+56,Brand,Best chocolate bar?,Snickers,KitKat,Twix,Mars,Bounty,Snickers,32-40%
+57,Brand,Best candy brand?,M&Ms,Skittles,Reeses,Hersheys,Kinder,M&Ms,30-38%
+58,Brand,Best cereal brand?,Kelloggs,General Mills,Nestle,Post,Quaker,Kelloggs,42-50%
+59,Brand,Best yogurt brand?,Chobani,Yoplait,Danone,Activia,Greek Gods,Chobani,30-38%
+60,Brand,Best bottled water brand?,Evian,Fiji,Aquafina,Nestle Pure Life,Dasani,Evian,32-40%
+61,Sports,Greatest footballer of all time?,Messi,Ronaldo,Pele,Maradona,Zidane,Messi,42-50%
+62,Sports,Greatest NBA player of all time?,Michael Jordan,LeBron James,Kobe Bryant,Magic Johnson,Kareem,Michael Jordan,55-65%
+63,Sports,Greatest boxer of all time?,Muhammad Ali,Mike Tyson,Floyd Mayweather,Sugar Ray Robinson,Manny Pacquiao,Muhammad Ali,45-55%
+64,Sports,Most exciting sport to watch live?,Football (soccer),Basketball,NFL,MMA,Tennis,Football (soccer),38-45%
+65,Sports,Best F1 driver right now?,Max Verstappen,Lewis Hamilton,Charles Leclerc,Lando Norris,George Russell,Max Verstappen,55-65%
+66,Sports,Greatest tennis player ever?,Roger Federer,Rafael Nadal,Novak Djokovic,Pete Sampras,Bjorn Borg,Novak Djokovic,38-45%
+67,Sports,Most popular sport globally?,Football (soccer),Cricket,Basketball,Tennis,Volleyball,Football (soccer),55-65%
+68,Sports,Best football club ever?,Real Madrid,Barcelona,Manchester United,Bayern Munich,Liverpool,Real Madrid,32-40%
+69,Sports,Best NFL quarterback ever?,Tom Brady,Peyton Manning,Joe Montana,Patrick Mahomes,Aaron Rodgers,Tom Brady,55-65%
+70,Sports,Most underrated sport?,Cricket,Rugby,Hockey,Badminton,Volleyball,Cricket,30-38%
+71,Sports,Best MMA fighter of all time?,Conor McGregor,Khabib,Jon Jones,GSP,Anderson Silva,Khabib,32-40%
+72,Sports,Best Champions League winner ever?,Real Madrid,Barcelona,Bayern Munich,AC Milan,Liverpool,Real Madrid,42-50%
+73,Sports,Hardest sport to master?,Golf,Tennis,Boxing,Gymnastics,Figure Skating,Golf,30-38%
+74,Sports,Best UFC weight class?,Lightweight,Welterweight,Middleweight,Heavyweight,Featherweight,Lightweight,30-38%
+75,Sports,Best Olympic event to watch?,100m sprint,Gymnastics,Swimming,Basketball,Football,100m sprint,32-40%
+76,Music,Most influential musician of all time?,Michael Jackson,The Beatles,Elvis Presley,Beyonce,Taylor Swift,Michael Jackson,38-45%
+77,Music,Greatest rapper of all time?,Eminem,Tupac,Jay-Z,Kendrick Lamar,Notorious B.I.G.,Eminem,38-45%
+78,Music,Most iconic actor of all time?,Leonardo DiCaprio,Robert De Niro,Al Pacino,Tom Hanks,Denzel Washington,Leonardo DiCaprio,32-40%
+79,Music,Biggest pop star right now?,Taylor Swift,Beyonce,Bad Bunny,The Weeknd,Drake,Taylor Swift,42-50%
+80,Music,Best rock band of all time?,The Beatles,Led Zeppelin,Queen,Pink Floyd,Rolling Stones,The Beatles,38-45%
+81,Music,Best female singer of all time?,Whitney Houston,Mariah Carey,Beyonce,Adele,Aretha Franklin,Whitney Houston,32-40%
+82,Music,Best male vocalist ever?,Freddie Mercury,Michael Jackson,Frank Sinatra,Stevie Wonder,Bruno Mars,Freddie Mercury,38-45%
+83,Music,Best K-pop group ever?,BTS,BLACKPINK,Twice,EXO,NewJeans,BTS,55-65%
+84,Music,Most overrated artist?,Drake,Taylor Swift,Justin Bieber,Kanye West,Ariana Grande,Drake,28-35%
+85,Music,Best DJ in the world?,David Guetta,Calvin Harris,Martin Garrix,Tiesto,Skrillex,David Guetta,28-35%
+86,Music,Best Eminem album?,The Marshall Mathers LP,The Eminem Show,Encore,Recovery,Relapse,The Marshall Mathers LP,42-50%
+87,Music,Best Beyonce album?,Lemonade,Beyonce,Renaissance,4,Dangerously in Love,Lemonade,38-45%
+88,Music,Best Drake album?,Take Care,Scorpion,If Youre Reading This,Views,Nothing Was The Same,Take Care,32-40%
+89,Music,Most legendary band breakup?,The Beatles,Pink Floyd,Oasis,One Direction,Guns N Roses,The Beatles,42-50%
+90,Music,Best concert experience ever?,Coachella,Tomorrowland,Glastonbury,Lollapalooza,Rock in Rio,Tomorrowland,30-38%
+91,Fears,What scares people the most?,Death,Poverty,Failure,Loneliness,Public speaking,Death,38-45%
+92,Fears,Whats the biggest regret most people have?,Not traveling enough,Wrong career,Not saying I love you,Wasting time,Not taking risks,Wasting time,32-40%
+93,Fears,What do people miss most from childhood?,No responsibilities,Innocence,Free time,Friendships,Imagination,No responsibilities,38-45%
+94,Fears,Whats the worst thing about getting old?,Health decline,Losing loved ones,Memory loss,Looking different,Less energy,Health decline,38-45%
+95,Fears,Whats the most addictive thing in modern life?,Smartphones,Social media,Sugar,Coffee,Streaming,Smartphones,42-50%
+96,Fears,Whats the biggest waste of time today?,Scrolling social media,Pointless meetings,Traffic,Watching ads,Arguing online,Scrolling social media,42-50%
+97,Fears,Whats the most overrated thing in life?,Fame,Money,Marriage,College,Travel,Fame,32-40%
+98,Fears,Biggest threat to humanity?,Climate change,AI,Nuclear war,Pandemic,Economic collapse,AI,30-38%
+99,Fears,Worst part of being broke?,Stress,Embarrassment,Limited choices,Family pressure,Health risks,Stress,38-45%
+100,Fears,Most painful life experience?,Losing a loved one,Heartbreak,Being betrayed,Public failure,Chronic illness,Losing a loved one,55-65%
+101,Fears,Whats hardest to forgive?,Cheating,Betrayal by friend,Lies,Theft,Public humiliation,Cheating,32-40%
+102,Fears,Worst feeling in adulthood?,Loneliness,Anxiety,Burnout,Imposter syndrome,Stagnation,Loneliness,30-38%
+103,Fears,Most stressful life event?,Losing a job,Divorce,Death of parent,Moving house,Major illness,Losing a job,30-38%
+104,Fears,Worst boss to work for?,Micromanager,Absent boss,Credit-stealer,Mood swinger,Inappropriate one,Micromanager,38-45%
+105,Fears,Worst trait in a person?,Dishonesty,Selfishness,Arrogance,Cruelty,Laziness,Dishonesty,32-40%
+106,Travel,Best country to visit at least once?,Japan,Italy,France,USA,Switzerland,Japan,42-50%
+107,Travel,Most overrated tourist destination?,Eiffel Tower,Times Square,Stonehenge,Mona Lisa,Hollywood Sign,Times Square,32-40%
+108,Travel,Best city for foodies?,Tokyo,Bangkok,Paris,New York,Istanbul,Tokyo,38-45%
+109,Travel,Best beach destination in the world?,Maldives,Bali,Bora Bora,Hawaii,Phuket,Maldives,38-45%
+110,Travel,Most underrated country to visit?,Georgia,Vietnam,Portugal,Albania,Uzbekistan,Vietnam,32-40%
+111,Travel,Best country for nightlife?,Spain,Brazil,Thailand,Germany,USA,Spain,30-38%
+112,Travel,Best European country to live in?,Switzerland,Netherlands,Germany,Spain,Portugal,Switzerland,32-40%
+113,Travel,Best Asian country for tourists?,Japan,Thailand,Vietnam,South Korea,Indonesia,Japan,42-50%
+114,Travel,Most beautiful natural wonder?,Grand Canyon,Northern Lights,Niagara Falls,Mount Everest,Great Barrier Reef,Northern Lights,30-38%
+115,Travel,Best city skyline?,New York,Hong Kong,Dubai,Tokyo,Shanghai,New York,32-40%
+116,Travel,Best honeymoon destination?,Maldives,Bali,Santorini,Paris,Bora Bora,Maldives,32-40%
+117,Travel,Most dangerous country to travel?,Afghanistan,Syria,Yemen,Somalia,North Korea,Afghanistan,30-38%
+118,Travel,Best country to retire in?,Portugal,Costa Rica,Spain,Mexico,Thailand,Portugal,30-38%
+119,Travel,Most romantic city in the world?,Paris,Venice,Prague,Rome,Kyoto,Paris,55-65%
+120,Travel,Best country for street food?,Thailand,Vietnam,Mexico,India,Turkey,Thailand,38-45%
+121,Cars,Best car brand for reliability?,Toyota,Honda,BMW,Mercedes,Lexus,Toyota,55-65%
+122,Cars,Best luxury car brand?,Ferrari,Lamborghini,Porsche,Rolls-Royce,Bentley,Ferrari,32-40%
+123,Cars,Best electric car?,Tesla Model 3,Tesla Model Y,Lucid Air,BMW i4,Hyundai Ioniq 5,Tesla Model Y,38-45%
+124,Cars,Best supercar of all time?,Bugatti Chiron,Ferrari LaFerrari,McLaren P1,Porsche 918,Koenigsegg Jesko,Bugatti Chiron,32-40%
+125,Cars,Best German car brand?,Mercedes-Benz,BMW,Audi,Porsche,Volkswagen,Mercedes-Benz,32-40%
+126,Cars,Best Japanese car brand?,Toyota,Honda,Nissan,Mazda,Subaru,Toyota,42-50%
+127,Cars,Best truck brand?,Ford,Chevrolet,Toyota,Ram,GMC,Ford,38-45%
+128,Cars,Best motorcycle brand?,Harley-Davidson,Yamaha,Honda,Ducati,BMW Motorrad,Harley-Davidson,30-38%
+129,Cars,Best SUV brand?,Toyota,Land Rover,BMW,Jeep,Mercedes,Toyota,32-40%
+130,Cars,Most iconic car of all time?,Ford Mustang,VW Beetle,Toyota Corolla,Ferrari 250 GTO,Porsche 911,Ford Mustang,30-38%
+131,Fashion,Best sneaker brand?,Nike,Adidas,New Balance,Puma,Converse,Nike,55-65%
+132,Fashion,Best watch brand?,Rolex,Omega,Patek Philippe,Audemars Piguet,Casio,Rolex,55-65%
+133,Fashion,Best luxury brand?,Louis Vuitton,Gucci,Chanel,Hermes,Prada,Louis Vuitton,32-40%
+134,Fashion,Most overrated luxury brand?,Gucci,Louis Vuitton,Supreme,Balenciaga,Off-White,Supreme,30-38%
+135,Fashion,Best streetwear brand?,Supreme,Off-White,Stussy,Palace,Bape,Supreme,32-40%
+136,Fashion,Best jeans brand?,Levis,Diesel,True Religion,Wrangler,Calvin Klein,Levis,42-50%
+137,Fashion,Best sportswear brand?,Nike,Adidas,Under Armour,Puma,Lululemon,Nike,55-65%
+138,Fashion,Best perfume brand?,Chanel,Dior,Tom Ford,Versace,Creed,Chanel,32-40%
+139,Fashion,Best handbag brand?,Hermes,Louis Vuitton,Chanel,Gucci,Prada,Hermes,32-40%
+140,Fashion,Best running shoes?,Nike,Adidas,Brooks,Asics,Hoka,Nike,42-50%
+141,Money,Best country to be rich in?,USA,Switzerland,UAE,Singapore,Monaco,USA,38-45%
+142,Money,Best path to wealth in 2026?,Crypto,Real estate,Stocks,Starting a business,Inheritance,Starting a business,32-40%
+143,Money,Best industry to work in right now?,AI/Tech,Finance,Healthcare,Real estate,Entertainment,AI/Tech,45-55%
+144,Money,What makes you feel most successful?,Money,Freedom,Recognition,Family,Health,Freedom,32-40%
+145,Money,Worst feeling about money?,Being broke,Owing debt,Losing investments,Wasting it,Not enough for retirement,Owing debt,30-38%
+146,Money,Best investment in 2026?,Bitcoin,S&P 500,Real estate,Gold,AI stocks,S&P 500,32-40%
+147,Money,Worst money habit?,Impulse spending,Not budgeting,Avoiding investing,Lifestyle inflation,Lending to friends,Impulse spending,38-45%
+148,Money,Best side hustle in 2026?,Content creation,Freelancing,Trading,Dropshipping,Tutoring,Content creation,32-40%
+149,Money,Best country for entrepreneurs?,USA,Singapore,UAE,Estonia,UK,USA,38-45%
+150,Money,Worst financial decision?,Buying a new car,Living paycheck to paycheck,Credit card debt,No emergency fund,No retirement plan,Credit card debt,30-38%
+151,Crypto,Best crypto to hold long-term?,Bitcoin,Ethereum,Solana,XRP,BNB,Bitcoin,55-65%
+152,Crypto,Best crypto exchange globally?,Binance,Coinbase,Kraken,Bybit,OKX,Binance,42-50%
+153,Crypto,Most likely crypto to 10x by 2027?,Solana,XRP,Sui,TON,Sei,Solana,32-40%
+154,Crypto,Best stablecoin to use?,USDT,USDC,DAI,FDUSD,TUSD,USDT,45-55%
+155,Crypto,Will Bitcoin hit $200K by end of 2026?,Yes,No,,,,No,55-65%
+156,Crypto,Best Layer 1 blockchain?,Ethereum,Solana,Avalanche,Cardano,Sui,Ethereum,42-50%
+157,Crypto,Best crypto wallet?,MetaMask,Trust Wallet,Phantom,Ledger,Coinbase Wallet,MetaMask,38-45%
+158,Crypto,Best meme coin of all time?,Dogecoin,Shiba Inu,Pepe,Bonk,WIF,Dogecoin,38-45%
+159,Crypto,Most overrated crypto?,XRP,Cardano,Dogecoin,Tron,Shiba Inu,XRP,28-35%
+160,Crypto,Best NFT collection ever?,Bored Ape Yacht Club,CryptoPunks,Azuki,Pudgy Penguins,Doodles,CryptoPunks,32-40%
+161,Crypto,Most likely to flip Ethereum?,Solana,Sui,Aptos,Toncoin,Cardano,Solana,42-50%
+162,Crypto,Best DEX right now?,Uniswap,PancakeSwap,Jupiter,Raydium,dYdX,Uniswap,42-50%
+163,Crypto,Most trusted CEX?,Binance,Coinbase,Kraken,Bitfinex,Bybit,Coinbase,32-40%
+164,Crypto,Best AI crypto project?,Fetch.ai,Render,Bittensor,SingularityNET,Ocean Protocol,Bittensor,32-40%
+165,Crypto,Best gaming crypto?,Immutable,Ronin,Beam,Gala,Wax,Immutable,30-38%
+166,Internet,Most overhyped 2026 trend?,AI girlfriends,Crypto memecoins,Vertical short videos,VR,Smart glasses,AI girlfriends,30-38%
+167,Internet,Best way to consume news in 2026?,Twitter (X),TikTok,YouTube,Newsletters,Traditional media,Twitter (X),32-40%
+168,Internet,Most cringe internet trend ever?,Tide Pod challenge,Ice Bucket,Planking,Cinnamon challenge,Dab dancing,Tide Pod challenge,32-40%
+169,Internet,Most overrated YouTuber?,MrBeast,Logan Paul,Jake Paul,PewDiePie,KSI,Logan Paul,28-35%
+170,Internet,Best podcaster right now?,Joe Rogan,Lex Fridman,Andrew Huberman,Tim Ferriss,Theo Von,Joe Rogan,42-50%
+171,Internet,Most influential creator on YouTube?,MrBeast,PewDiePie,Markiplier,Dream,KSI,MrBeast,55-65%
+172,Internet,Best TikToker right now?,Khaby Lame,Charli DAmelio,Bella Poarch,MrBeast,Addison Rae,Khaby Lame,38-45%
+173,Internet,Most addictive feature of social media?,Endless scroll,Notifications,Likes,Stories,DMs,Endless scroll,42-50%
+174,Internet,Best subreddit?,r/AskReddit,r/funny,r/news,r/todayilearned,r/wallstreetbets,r/AskReddit,32-40%
+175,Internet,Most useless social media platform?,Facebook,LinkedIn,Snapchat,Pinterest,Threads,Threads,30-38%
+176,Internet,Best meme format ever?,Drake meme,Distracted boyfriend,Galaxy brain,SpongeBob,This is fine,Drake meme,28-35%
+177,Internet,Most legendary internet moment?,The Dress,Yanny vs Laurel,Charlie bit my finger,Star Wars Kid,Dramatic Chipmunk,The Dress,30-38%
+178,Internet,Most influential Twitter user?,Elon Musk,Donald Trump,Joe Biden,Cristiano Ronaldo,Barack Obama,Elon Musk,55-65%
+179,Internet,Best comment section?,YouTube,Reddit,Twitter,Instagram,Facebook,Reddit,42-50%
+180,Internet,Most addictive app?,TikTok,Instagram,YouTube,Twitter,Reddit,TikTok,42-50%
+181,Universal,Best decade for music?,1970s,1980s,1990s,2000s,2010s,1990s,32-40%
+182,Universal,Greatest invention of 21st century?,Smartphone,Internet,AI,Social media,Electric cars,Smartphone,42-50%
+183,Universal,Best year of your life so far?,Childhood,Teenage years,20s,30s,40s+,20s,32-40%
+184,Universal,Most important meal of the day?,Breakfast,Lunch,Dinner,Late-night snack,,Breakfast,38-45%
+185,Universal,Best season of the year?,Spring,Summer,Fall,Winter,,Summer,32-40%
+186,Universal,Most valuable life skill in 2026?,Communication,Coding,Sales,Critical thinking,Emotional intelligence,Communication,30-38%
+187,Universal,Best age to be?,18,25,30,35,40,25,32-40%
+188,Universal,Best day of the week?,Friday,Saturday,Sunday,Monday,Wednesday,Saturday,38-45%
+189,Universal,Worst day of the week?,Monday,Tuesday,Wednesday,Thursday,Sunday,Monday,55-65%
+190,Universal,Best holiday of the year?,Christmas,New Year,Halloween,Thanksgiving,Easter,Christmas,42-50%
+191,Universal,Most underrated quality?,Patience,Kindness,Punctuality,Humility,Curiosity,Patience,30-38%
+192,Universal,Best time to wake up?,5am,6am,7am,8am,9am+,7am,32-40%
+193,Universal,Best workout time?,Morning,Afternoon,Evening,Late night,,Morning,42-50%
+194,Universal,Best way to spend a weekend?,Sleeping in,Outdoor activities,With friends,Watching shows,Travel,Sleeping in,30-38%
+195,Universal,Best superpower to have?,Flying,Time travel,Teleportation,Mind reading,Invisibility,Time travel,32-40%
+196,Universal,Best fictional world to live in?,Hogwarts,Middle Earth,Star Wars,Avatar,Pokemon,Hogwarts,38-45%
+197,Universal,Best era to be born in?,1950s,1980s,1990s,2000s,2020s,1990s,30-38%
+198,Universal,Best mode of transport?,Plane,Train,Car,Boat,Bike,Plane,38-45%
+199,Universal,Best body part to keep healthy?,Brain,Heart,Eyes,Knees,Liver,Brain,42-50%
+200,Universal,Best way to die peacefully?,In sleep,Old age,Surrounded by family,On vacation,Painlessly,In sleep,55-65%
+201,Daily,Worst notification to receive?,Storage Full,Update Failed,Battery Low 1%,No Internet,Server Error,Storage Full,32-40%
+202,Daily,Most annoying daily problem?,Slow WiFi,Traffic,Long queues,Spam emails,Cant find keys,Slow WiFi,38-45%
+203,Daily,Worst household chore?,Dishes,Laundry,Bathroom,Vacuuming,Cooking,Dishes,32-40%
+204,Daily,Best household chore?,Folding laundry,Vacuuming,Mopping,Dusting,Cooking,Folding laundry,30-38%
+205,Daily,Most useless app on your phone?,Stocks,Compass,Health,Calculator,Wallet,Stocks,32-40%
+206,Daily,Worst type of YouTube ad?,Skippable but long,Unskippable 5 sec,Mid-roll,Pre-roll,Banner,Mid-roll,32-40%
+207,Daily,Most annoying alarm sound?,Default iPhone,Rooster,Loud beep,Soft music,Radio,Default iPhone,42-50%
+208,Daily,Worst delay to deal with?,Flight delay,Train delay,Food delivery delay,Online order delay,Doctor appointment,Flight delay,38-45%
+209,Daily,Best way to wake up?,Alarm,Sunlight,Naturally,Someone wakes you,Coffee smell,Naturally,42-50%
+210,Daily,Worst weather to commute in?,Heavy rain,Snow,Extreme heat,Strong wind,Fog,Heavy rain,42-50%
+211,Daily,Best snack while studying?,Coffee,Chocolate,Chips,Fruit,Energy drink,Coffee,32-40%
+212,Daily,Most annoying person on a plane?,Crying baby,Loud talker,Seat kicker,Reclining person,Smelly passenger,Crying baby,38-45%
+213,Daily,Worst place to lose your phone?,Public toilet,Beach,Taxi,Restaurant,Movie theater,Public toilet,32-40%
+214,Daily,Best place to take a nap?,Own bed,Couch,Hammock,Beach,Office,Own bed,55-65%
+215,Daily,Worst smell ever?,Skunk,Rotten food,Sewage,Wet dog,Stinky feet,Sewage,32-40%
+216,Daily,Best smell ever?,Fresh bread,Coffee,Rain,Babies,New car,Coffee,32-40%
+217,Daily,Worst public transport?,Crowded subway,Late bus,Smelly cab,Slow tram,Delayed train,Crowded subway,32-40%
+218,Daily,Most annoying coworker habit?,Loud chewing,Speakerphone calls,Smelly food,Constant interruptions,Stealing food,Speakerphone calls,30-38%
+219,Daily,Worst gift to receive?,Socks,Re-gifted item,Generic candle,Cheap perfume,Bookmark,Re-gifted item,30-38%
+220,Daily,Best gift to receive?,Cash,Gift card,Experience,Tech gadget,Personalized item,Cash,38-45%
+221,Food,Best pizza topping?,Pepperoni,Mushroom,Pineapple,Plain cheese,Sausage,Pepperoni,38-45%
+222,Food,Worst pizza topping?,Pineapple,Anchovies,Olives,Mushrooms,Onions,Pineapple,38-45%
+223,Food,Best burger topping?,Cheese,Bacon,Lettuce,Pickles,Onions,Cheese,42-50%
+224,Food,Best breakfast food?,Eggs,Pancakes,Bacon,Cereal,Toast,Eggs,32-40%
+225,Food,Best dessert ever?,Chocolate cake,Ice cream,Cheesecake,Tiramisu,Apple pie,Chocolate cake,32-40%
+226,Food,Best fruit in the world?,Mango,Apple,Strawberry,Banana,Watermelon,Mango,32-40%
+227,Food,Worst fruit?,Durian,Jackfruit,Olive,Grapefruit,Cranberry,Durian,38-45%
+228,Food,Best comfort food?,Pizza,Mac and cheese,Fried chicken,Soup,Mashed potatoes,Pizza,32-40%
+229,Food,Best cuisine in the world?,Italian,Japanese,Mexican,Indian,Chinese,Italian,32-40%
+230,Food,Worst cuisine?,British,German,Russian,Scandinavian,Eastern European,British,32-40%
+231,Food,Best cheese?,Cheddar,Mozzarella,Parmesan,Brie,Gouda,Cheddar,32-40%
+232,Food,Best meat?,Beef,Chicken,Pork,Lamb,Fish,Beef,32-40%
+233,Food,Best seafood?,Salmon,Lobster,Shrimp,Tuna,Crab,Salmon,32-40%
+234,Food,Best Italian food?,Pizza,Pasta,Lasagna,Risotto,Tiramisu,Pizza,38-45%
+235,Food,Best Chinese food?,Fried rice,Dumplings,Sweet and sour pork,Kung Pao chicken,Chow mein,Dumplings,30-38%
+236,Food,Best Indian food?,Butter chicken,Biryani,Tandoori chicken,Naan,Samosa,Butter chicken,30-38%
+237,Food,Best Japanese food?,Sushi,Ramen,Tempura,Yakitori,Tonkatsu,Sushi,42-50%
+238,Food,Best Mexican food?,Tacos,Burritos,Quesadillas,Enchiladas,Nachos,Tacos,42-50%
+239,Food,Best dipping sauce?,Ketchup,Ranch,BBQ,Mayo,Mustard,Ranch,30-38%
+240,Food,Best chocolate type?,Milk chocolate,Dark chocolate,White chocolate,Chocolate with nuts,Chocolate with caramel,Milk chocolate,32-40%
+241,Gaming,Best Rockstar Games title?,GTA V,Red Dead Redemption 2,GTA San Andreas,GTA Vice City,Bully,GTA V,38-45%
+242,Gaming,Best multiplayer game right now?,Fortnite,Call of Duty Warzone,Valorant,League of Legends,Counter-Strike 2,Fortnite,32-40%
+243,Gaming,Best Pokemon game ever?,Pokemon Red/Blue,Gold/Silver,Ruby/Sapphire,Diamond/Pearl,Sword/Shield,Gold/Silver,32-40%
+244,Gaming,Best Mario game?,Super Mario 64,Super Mario Odyssey,Super Mario World,Super Mario Galaxy,New Super Mario Bros,Super Mario 64,30-38%
+245,Gaming,Best Zelda game?,Breath of the Wild,Ocarina of Time,Tears of the Kingdom,Twilight Princess,Wind Waker,Breath of the Wild,38-45%
+246,Gaming,Best FIFA/EA FC of all time?,FIFA 14,FIFA 17,FIFA 19,FIFA 23,EA FC 24,FIFA 14,30-38%
+247,Gaming,Best Call of Duty?,Modern Warfare 2 (2009),Black Ops,Black Ops 2,Modern Warfare (2019),Cold War,Modern Warfare 2 (2009),38-45%
+248,Gaming,Best Battle Royale game?,Fortnite,PUBG,Apex Legends,Warzone,Naraka Bladepoint,Fortnite,38-45%
+249,Gaming,Best Final Fantasy game?,FF VII,FF X,FF VI,FF XV,FF XIV,FF VII,38-45%
+250,Gaming,Most disappointing game launch?,Cyberpunk 2077,No Mans Sky,Anthem,Fallout 76,Battlefield 2042,Cyberpunk 2077,38-45%
+251,Gaming,Best esports game?,League of Legends,CS2,Dota 2,Valorant,Rocket League,League of Legends,32-40%
+252,Gaming,Best racing game?,Forza Horizon 5,Gran Turismo 7,Mario Kart 8,Need for Speed,F1 2023,Forza Horizon 5,32-40%
+253,Gaming,Best fighting game?,Tekken 8,Street Fighter 6,Mortal Kombat 1,Super Smash Bros,Guilty Gear Strive,Tekken 8,32-40%
+254,Gaming,Best survival game?,Minecraft,The Forest,Subnautica,Valheim,Rust,Minecraft,55-65%
+255,Gaming,Best open world game?,GTA V,Red Dead Redemption 2,Skyrim,Breath of the Wild,Witcher 3,GTA V,32-40%
+256,Gaming,Best stealth game?,Hitman,Metal Gear Solid 3,Splinter Cell,Dishonored,Thief,Hitman,30-38%
+257,Gaming,Best indie game?,Hollow Knight,Stardew Valley,Hades,Celeste,Undertale,Stardew Valley,30-38%
+258,Gaming,Best gaming PC brand?,Alienware,ASUS ROG,MSI,Razer,Corsair,ASUS ROG,30-38%
+259,Gaming,Best mobile game ever?,Clash of Clans,Candy Crush,PUBG Mobile,Pokemon Go,Subway Surfers,Clash of Clans,32-40%
+260,Gaming,Best gaming peripheral brand?,Logitech,Razer,SteelSeries,Corsair,HyperX,Logitech,32-40%
+261,Personal,Best personal service to have?,Personal masseuse,Personal maid,Personal chef,Personal driver,Personal trainer,Personal masseuse,38-45%
+262,Personal,Whats most important quality in a partner?,Honesty,Loyalty,Sense of humor,Intelligence,Looks,Loyalty,38-45%
+263,Personal,What ruins relationships the most?,Lack of communication,Money issues,Infidelity,Family pressure,Boredom,Infidelity,38-45%
+264,Personal,Biggest red flag on a first date?,Always on phone,Rude to staff,Talks only about themselves,Bad hygiene,Shows up late,Rude to staff,38-45%
+265,Personal,What makes a long marriage work?,Communication,Trust,Common goals,Love,Compromise,Communication,38-45%
+266,Personal,Worst dating app?,Tinder,Bumble,Hinge,Plenty of Fish,OkCupid,Tinder,30-38%
+267,Personal,Best dating app?,Hinge,Bumble,Tinder,Match,Coffee Meets Bagel,Hinge,30-38%
+268,Personal,Best place to meet someone?,Through friends,Dating apps,Work,At a bar,Hobbies/classes,Through friends,32-40%
+269,Personal,Worst date scenario?,Awkward silence,Rude waiter,They show up late,They talk only about ex,They forget wallet,They talk only about ex,32-40%
+270,Personal,Best gift for partner?,Experience,Jewelry,Handwritten letter,Tech gadget,Spa day,Experience,32-40%
+271,Personal,Most romantic gesture?,Surprise trip,Handwritten letter,Cooking favorite meal,Public proposal,Memory book,Handwritten letter,30-38%
+272,Personal,Whats deal-breaker in dating?,Cheating,Lying,Bad hygiene,No ambition,Disrespect,Cheating,42-50%
+273,Personal,Best wedding theme?,Beach,Garden,Rustic,Classic ballroom,Destination,Beach,32-40%
+274,Personal,Best honeymoon destination?,Maldives,Bali,Santorini,Paris,Italy,Maldives,32-40%
+275,Personal,Worst thing to forget?,Anniversary,Birthday,First date spot,Their parents names,Wedding date,Anniversary,32-40%
+276,Health,Worst body pain?,Toothache,Migraine,Back pain,Stomach ache,Sore throat,Toothache,32-40%
+277,Health,Best way to stay healthy?,Exercise,Sleep,Healthy diet,Stress management,Hydration,Sleep,32-40%
+278,Health,Worst illness to have?,Cancer,Heart disease,Alzheimers,Diabetes,Stroke,Cancer,42-50%
+279,Health,Best workout type?,Weightlifting,Running,Yoga,HIIT,Swimming,Weightlifting,30-38%
+280,Health,Worst addiction?,Drugs,Alcohol,Smoking,Gambling,Social media,Drugs,42-50%
+281,Health,Best diet for losing weight?,Keto,Intermittent fasting,Mediterranean,Low-carb,Plant-based,Intermittent fasting,30-38%
+282,Health,Best mental health practice?,Therapy,Meditation,Exercise,Journaling,Spending time in nature,Therapy,30-38%
+283,Health,Worst sleep position?,Stomach,Side,Back,Curled up,Sitting up,Stomach,38-45%
+284,Health,Best vitamin to take daily?,Vitamin D,Vitamin C,B12,Multivitamin,Magnesium,Vitamin D,32-40%
+285,Health,Most overrated health trend?,Detox tea,Celery juice,Keto,Cold plunges,Crystal healing,Detox tea,30-38%
+286,Health,Best protein source?,Chicken,Eggs,Beef,Fish,Tofu,Chicken,38-45%
+287,Health,Worst thing for your skin?,Sun,Stress,Bad diet,Lack of sleep,Smoking,Sun,32-40%
+288,Health,Best stress relief?,Exercise,Sleep,Meditation,Music,Hobbies,Exercise,32-40%
+289,Health,Worst part of being sick?,Body aches,Loss of appetite,Fatigue,Cough,Headache,Body aches,30-38%
+290,Health,Best beverage for energy?,Coffee,Energy drink,Green tea,Water,Smoothie,Coffee,55-65%
+291,Misc,Best language to learn in 2026?,English,Mandarin,Spanish,Japanese,French,English,38-45%
+292,Misc,Worst pet to have?,Snake,Spider,Iguana,Ferret,Hedgehog,Spider,32-40%
+293,Misc,Best pet to have?,Dog,Cat,Fish,Bird,Rabbit,Dog,55-65%
+294,Misc,Best book genre?,Mystery,Fantasy,Romance,Sci-fi,Self-help,Fantasy,30-38%
+295,Misc,Best movie genre?,Action,Comedy,Drama,Sci-fi,Horror,Action,32-40%
+296,Misc,Best music genre?,Pop,Rock,Hip-hop,EDM,Country,Pop,30-38%
+297,Misc,Best subject in school?,Math,English,History,Science,Art,Science,30-38%
+298,Misc,Worst subject in school?,Math,Physics,Chemistry,History,PE,Math,38-45%
+299,Misc,Best childhood toy?,Lego,Barbie,Hot Wheels,Action figures,Stuffed animals,Lego,32-40%
+300,Misc,Best zodiac sign?,Leo,Scorpio,Aries,Libra,Gemini,Leo,25-32%
