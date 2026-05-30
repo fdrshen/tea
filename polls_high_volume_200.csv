@@ -1,0 +1,201 @@
+No,Category,Question,Option1,Option2,Option3,Option4,Option5,PredictedWinner,EstimatedWinRate,VolumeReason
+1,Superhero,Which superhero would you call in danger?,Superman,Spider-Man,Batman,Iron Man,Hulk,Superman,40-50%,Action framing + universal franchise
+2,Superhero,Which superhero would you trust with your life?,Captain America,Superman,Batman,Wonder Woman,Spider-Man,Captain America,32-40%,Trust framing creates emotional stake
+3,Superhero,Which Avenger has the best chance against Thanos solo?,Thor,Hulk,Iron Man,Captain Marvel,Doctor Strange,Captain Marvel,30-38%,Hypothetical battle drives engagement
+4,Superhero,Best superhero suit design ever?,Iron Man,Batman,Spider-Man,Black Panther,Captain America,Iron Man,32-40%,Visual fandom debate
+5,Superhero,Which superhero has the best origin story?,Spider-Man,Batman,Iron Man,Captain America,Daredevil,Spider-Man,32-40%,Origin debate is classic fandom topic
+6,Superhero,Strongest Marvel villain of all time?,Thanos,Galactus,Magneto,Loki,Doctor Doom,Thanos,42-50%,Villain debate always engages
+7,Superhero,Which DC hero can defeat any Marvel hero?,Superman,Batman,Wonder Woman,The Flash,Martian Manhunter,Superman,42-50%,Marvel vs DC tribal war
+8,Superhero,Best Marvel Phase ever?,Phase 1,Phase 2,Phase 3,Phase 4,Phase 5,Phase 3,55-65%,MCU fandom obsession
+9,Superhero,Most underrated Avenger?,Hawkeye,Black Widow,Ant-Man,Falcon,War Machine,Hawkeye,30-38%,Underrated debate sparks comments
+10,Superhero,Best Spider-Man actor?,Tobey Maguire,Andrew Garfield,Tom Holland,,,Tobey Maguire,40-48%,Generational nostalgia battle
+11,Superhero,Best Batman actor?,Christian Bale,Michael Keaton,Robert Pattinson,Ben Affleck,Adam West,Christian Bale,42-50%,Iconic role debate
+12,Superhero,Best Joker portrayal?,Heath Ledger,Joaquin Phoenix,Jack Nicholson,Cesar Romero,Jared Leto,Heath Ledger,55-65%,Villain performance debate
+13,Superhero,Which superhero would dominate the NBA?,Superman,The Flash,Spider-Man,Hulk,Captain America,The Flash,32-40%,Cross-genre fun question
+14,Superhero,Which superhero has the best catchphrase?,Spider-Man (great power),Hulk (smash),Iron Man (I am Iron Man),Batman (Im Batman),Superman (truth justice),Iron Man (I am Iron Man),32-40%,Quote debate engages fans
+15,Superhero,Which X-Men leader is better?,Professor X,Magneto,Cyclops,Wolverine,Storm,Professor X,38-45%,Classic ideology battle
+16,Football,Who has best chance to win World Cup 2026?,Argentina,Brazil,France,Spain,England,France,28-35%,Live tournament drives bets
+17,Football,Best player in the world right now?,Mbappe,Haaland,Vinicius Jr,Bellingham,Yamal,Mbappe,32-40%,Currently active GOAT debate
+18,Football,Who wins Ballon dOr 2026?,Vinicius Jr,Mbappe,Haaland,Bellingham,Yamal,Vinicius Jr,30-38%,Specific award prediction
+19,Football,Best Premier League club right now?,Manchester City,Arsenal,Liverpool,Chelsea,Manchester United,Manchester City,38-45%,Tribal fan war
+20,Football,Greatest Premier League player ever?,Thierry Henry,Cristiano Ronaldo,Alan Shearer,Steven Gerrard,Eric Cantona,Thierry Henry,32-40%,Legacy debate
+21,Football,Best La Liga club ever?,Real Madrid,Barcelona,Atletico Madrid,Valencia,Sevilla,Real Madrid,55-65%,Predictable but high engagement
+22,Football,Greatest manager of all time?,Pep Guardiola,Sir Alex Ferguson,Jose Mourinho,Carlo Ancelotti,Johan Cruyff,Sir Alex Ferguson,38-45%,Legacy + tribal
+23,Football,Best Champions League final ever?,Istanbul 2005,Munich 2012,Madrid 2014,Lisbon 2014,Paris 2022,Istanbul 2005,38-45%,Iconic moment debate
+24,Football,Best player in El Clasico history?,Messi,Cristiano Ronaldo,Iniesta,Zidane,Ronaldinho,Messi,42-50%,Rivalry topic
+25,Football,Most overrated footballer right now?,Neymar,Pogba,Sancho,Lukaku,Antony,Neymar,30-38%,Hot take generates comments
+26,Football,Best young footballer in 2026?,Yamal,Bellingham,Endrick,Arda Guler,Camavinga,Yamal,38-45%,Future star prediction
+27,Football,Who replaces Messi and Ronaldo era?,Mbappe,Haaland,Bellingham,Yamal,Vinicius,Mbappe,30-38%,Era succession debate
+28,Football,Best free-kick taker ever?,Juninho,David Beckham,Cristiano Ronaldo,Messi,Pirlo,Juninho,30-38%,Niche skill debate
+29,Football,Best goalkeeper of all time?,Buffon,Casillas,Neuer,Yashin,Schmeichel,Buffon,32-40%,Position-specific debate
+30,Football,Most overrated club historically?,Manchester United,PSG,Barcelona,Real Madrid,Chelsea,PSG,28-35%,Hot take fuels engagement
+31,Boxing,Greatest boxer of all time?,Muhammad Ali,Mike Tyson,Floyd Mayweather,Sugar Ray Robinson,Manny Pacquiao,Muhammad Ali,42-50%,Universal GOAT debate
+32,Boxing,Hardest puncher in boxing history?,Mike Tyson,George Foreman,Sonny Liston,Earnie Shavers,Deontay Wilder,Mike Tyson,55-65%,Power-specific debate
+33,Boxing,Most exciting active boxer?,Tyson Fury,Canelo Alvarez,Naoya Inoue,Terence Crawford,Anthony Joshua,Tyson Fury,32-40%,Current scene engagement
+34,Boxing,Best heavyweight ever?,Muhammad Ali,Mike Tyson,Joe Louis,Lennox Lewis,Larry Holmes,Muhammad Ali,42-50%,Classic division debate
+35,Boxing,Who wins Fury vs Usyk rematch?,Tyson Fury,Oleksandr Usyk,,,,Oleksandr Usyk,55-65%,Specific upcoming fight
+36,Boxing,Best boxing match ever?,Ali vs Frazier III,Hagler vs Hearns,Leonard vs Hearns,Pacquiao vs Marquez IV,Tyson vs Holyfield II,Ali vs Frazier III,32-40%,Iconic match debate
+37,UFC,GOAT MMA fighter of all time?,Khabib,Jon Jones,GSP,Anderson Silva,Conor McGregor,Jon Jones,38-45%,Active GOAT debate
+38,UFC,Most exciting UFC fighter right now?,Conor McGregor,Israel Adesanya,Alex Pereira,Sean OMalley,Ilia Topuria,Alex Pereira,30-38%,Currently active scene
+39,UFC,Best knockout artist in UFC?,Francis Ngannou,Alex Pereira,Anderson Silva,Vitor Belfort,Israel Adesanya,Francis Ngannou,32-40%,Skill-specific debate
+40,UFC,Best UFC weight class to watch?,Lightweight,Welterweight,Middleweight,Heavyweight,Featherweight,Lightweight,38-45%,Division loyalty
+41,Movies,Best movie of 2025?,Oppenheimer,Dune Part 2,Wicked,Gladiator 2,Mickey 17,Dune Part 2,32-40%,Recent release engagement
+42,Movies,Best movie franchise of all time?,Marvel,Star Wars,Harry Potter,Lord of the Rings,Fast & Furious,Marvel,38-45%,Universal franchise war
+43,Movies,Greatest film ever made?,The Godfather,Shawshank Redemption,Pulp Fiction,Schindlers List,The Dark Knight,The Godfather,32-40%,Cinema classic debate
+44,Movies,Best Christopher Nolan film?,Inception,The Dark Knight,Interstellar,Tenet,Oppenheimer,The Dark Knight,40-48%,Director-specific fandom
+45,Movies,Best Quentin Tarantino film?,Pulp Fiction,Kill Bill,Django Unchained,Inglourious Basterds,Once Upon Time Hollywood,Pulp Fiction,42-50%,Director-specific fandom
+46,Movies,Best Martin Scorsese film?,Goodfellas,The Departed,Taxi Driver,Casino,Wolf of Wall Street,Goodfellas,38-45%,Director-specific fandom
+47,Movies,Best Studio Ghibli film?,Spirited Away,My Neighbor Totoro,Princess Mononoke,Howls Moving Castle,Castle in the Sky,Spirited Away,45-55%,Anime film fandom
+48,Movies,Best superhero movie ever?,The Dark Knight,Avengers Endgame,Spider-Man Into the Spider-Verse,Logan,Iron Man,The Dark Knight,38-45%,Genre debate
+49,Movies,Best horror movie of all time?,The Shining,The Exorcist,Hereditary,Get Out,Halloween,The Shining,32-40%,Genre fandom
+50,Movies,Best comedy movie ever?,The Hangover,Superbad,Step Brothers,Anchorman,Dumb and Dumber,The Hangover,32-40%,Comedy generational debate
+51,Movies,Best animated movie ever?,Toy Story,The Lion King,Spirited Away,Spider-Verse,Frozen,The Lion King,32-40%,Cross-generation appeal
+52,Movies,Best Disney animated movie?,The Lion King,Frozen,Aladdin,Beauty and the Beast,Mulan,The Lion King,38-45%,Disney fandom
+53,Movies,Best Pixar movie ever?,Toy Story,Up,Finding Nemo,The Incredibles,Wall-E,Toy Story,32-40%,Pixar generational debate
+54,Movies,Best Star Wars film?,Empire Strikes Back,A New Hope,Return of the Jedi,Revenge of the Sith,Force Awakens,Empire Strikes Back,42-50%,SW fandom war
+55,Movies,Best Lord of the Rings film?,Fellowship of the Ring,The Two Towers,Return of the King,The Hobbit Trilogy,,Return of the King,38-45%,LOTR fandom
+56,Movies,Best Harry Potter film?,Prisoner of Azkaban,Goblet of Fire,Deathly Hallows Part 2,Half-Blood Prince,Order of the Phoenix,Prisoner of Azkaban,32-40%,HP fandom
+57,Movies,Best James Bond actor?,Sean Connery,Daniel Craig,Roger Moore,Pierce Brosnan,Timothy Dalton,Sean Connery,42-50%,Iconic role debate
+58,Movies,Best Leonardo DiCaprio film?,Inception,Titanic,Wolf of Wall Street,Shutter Island,The Revenant,Inception,30-38%,Actor filmography debate
+59,Movies,Most overrated film of all time?,Avatar,Titanic,La La Land,Forrest Gump,Pulp Fiction,Avatar,28-35%,Hot take engagement
+60,Movies,Best Oscar Best Picture winner ever?,The Godfather,Forrest Gump,Schindlers List,Parasite,Titanic,The Godfather,32-40%,Award legacy debate
+61,TV,Best TV show of all time?,Breaking Bad,Game of Thrones,The Sopranos,The Wire,Better Call Saul,Breaking Bad,42-50%,Universal TV debate
+62,TV,Best Netflix series ever?,Stranger Things,Squid Game,Money Heist,The Crown,Wednesday,Stranger Things,42-50%,Streaming era fandom
+63,TV,Best HBO series of all time?,Game of Thrones,The Sopranos,The Wire,Succession,Chernobyl,Game of Thrones,38-45%,HBO premium fandom
+64,TV,Best comedy sitcom ever?,Friends,The Office,Seinfeld,How I Met Your Mother,Brooklyn 99,Friends,42-50%,Generational sitcom war
+65,TV,Most rewatchable show ever?,Friends,The Office,Breaking Bad,Game of Thrones,How I Met Your Mother,Friends,38-45%,Comfort show debate
+66,TV,Best anime of all time?,Naruto,One Piece,Attack on Titan,Death Note,Dragon Ball Z,One Piece,32-40%,Anime fandom war
+67,TV,Best K-drama ever?,Squid Game,Crash Landing on You,Goblin,Itaewon Class,Vincenzo,Squid Game,38-45%,K-drama wave
+68,TV,Best reality TV show?,Survivor,Big Brother,The Bachelor,RuPauls Drag Race,Love Island,Survivor,32-40%,Reality TV loyalty
+69,TV,Best crime drama ever?,Breaking Bad,The Wire,Better Call Saul,True Detective,Narcos,Breaking Bad,42-50%,Genre fandom
+70,TV,Best fantasy series ever?,Game of Thrones,The Witcher,Lord of the Rings (Amazon),House of the Dragon,Wheel of Time,Game of Thrones,55-65%,Fantasy genre dominance
+71,Music,Greatest musician of all time?,Michael Jackson,The Beatles,Elvis Presley,Beyonce,Bob Dylan,Michael Jackson,38-45%,Universal GOAT music
+72,Music,Greatest rapper of all time?,Eminem,Tupac,Jay-Z,Kendrick Lamar,Notorious B.I.G.,Eminem,38-45%,Rap GOAT debate
+73,Music,Best Drake or Kendrick?,Drake,Kendrick Lamar,,,,Kendrick Lamar,55-65%,Recent beef hot topic
+74,Music,Biggest pop star right now?,Taylor Swift,Beyonce,Bad Bunny,The Weeknd,Drake,Taylor Swift,42-50%,Active pop crown
+75,Music,Best K-pop group ever?,BTS,BLACKPINK,Twice,EXO,NewJeans,BTS,55-65%,K-pop fandom
+76,Music,Best K-pop boy group right now?,BTS,Stray Kids,SEVENTEEN,ENHYPEN,TXT,BTS,45-55%,K-pop war
+77,Music,Best K-pop girl group right now?,BLACKPINK,NewJeans,Twice,IVE,LE SSERAFIM,BLACKPINK,38-45%,K-pop war
+78,Music,Best Eminem album?,Marshall Mathers LP,Eminem Show,Encore,Recovery,Slim Shady LP,Marshall Mathers LP,42-50%,Album debate
+79,Music,Best Taylor Swift album?,Folklore,1989,Reputation,Midnights,Red,Folklore,32-40%,Swiftie debate
+80,Music,Best Beyonce album?,Lemonade,Beyonce,Renaissance,4,Cowboy Carter,Lemonade,38-45%,BeyHive engagement
+81,Music,Most influential rock band ever?,The Beatles,Led Zeppelin,Pink Floyd,Queen,Rolling Stones,The Beatles,38-45%,Rock GOAT
+82,Music,Best song ever made?,Bohemian Rhapsody,Imagine,Hey Jude,Like a Rolling Stone,Smells Like Teen Spirit,Bohemian Rhapsody,32-40%,Universal song debate
+83,Music,Best DJ in the world?,David Guetta,Calvin Harris,Martin Garrix,Tiesto,Skrillex,David Guetta,28-35%,EDM fandom
+84,Music,Most overrated artist right now?,Drake,Taylor Swift,Justin Bieber,Travis Scott,Bad Bunny,Drake,28-35%,Hot take fuel
+85,Music,Best concert experience ever?,Coachella,Tomorrowland,Glastonbury,Lollapalooza,Rock in Rio,Tomorrowland,30-38%,Festival rivalry
+86,Music,Greatest female vocalist ever?,Whitney Houston,Mariah Carey,Beyonce,Adele,Aretha Franklin,Whitney Houston,32-40%,Vocal GOAT debate
+87,Music,Greatest male vocalist ever?,Freddie Mercury,Michael Jackson,Frank Sinatra,Stevie Wonder,Bruno Mars,Freddie Mercury,38-45%,Vocal GOAT debate
+88,Music,Best Latin artist ever?,Shakira,Bad Bunny,Daddy Yankee,J Balvin,Selena,Shakira,30-38%,Latin pride
+89,Music,Best new artist of 2025?,Sabrina Carpenter,Chappell Roan,Tate McRae,Benson Boone,Doechii,Sabrina Carpenter,32-40%,Recent breakthrough debate
+90,Music,Best Coldplay song?,Fix You,Yellow,Viva la Vida,The Scientist,Clocks,Fix You,32-40%,Specific band debate
+91,Sports,Greatest athlete of all time?,Michael Jordan,Muhammad Ali,Tom Brady,Messi,Tiger Woods,Michael Jordan,32-40%,Cross-sport GOAT
+92,Sports,Greatest NBA player of all time?,Michael Jordan,LeBron James,Kobe Bryant,Magic Johnson,Kareem,Michael Jordan,55-65%,NBA GOAT war
+93,Sports,Best NBA player right now?,Nikola Jokic,Luka Doncic,Giannis,Jayson Tatum,Shai Gilgeous-Alexander,Nikola Jokic,32-40%,Active GOAT
+94,Sports,Who wins NBA Finals 2026?,Boston Celtics,Denver Nuggets,Oklahoma City Thunder,Minnesota Timberwolves,Dallas Mavericks,Boston Celtics,28-35%,Live championship bet
+95,Sports,Greatest tennis player ever?,Roger Federer,Rafael Nadal,Novak Djokovic,Pete Sampras,Bjorn Borg,Novak Djokovic,38-45%,GOAT debate active
+96,Sports,Best Wimbledon final ever?,Federer vs Nadal 2008,Djokovic vs Federer 2019,Borg vs McEnroe 1980,Sampras vs Agassi 1999,Djokovic vs Nadal 2018,Federer vs Nadal 2008,55-65%,Iconic match
+97,Sports,Best NFL quarterback ever?,Tom Brady,Peyton Manning,Joe Montana,Patrick Mahomes,Aaron Rodgers,Tom Brady,55-65%,QB GOAT debate
+98,Sports,Best Super Bowl ever?,Patriots vs Falcons (28-3),Giants vs Patriots (XLII),Rams vs Bengals (LVI),Steelers vs Packers (XLV),49ers vs Chiefs,Patriots vs Falcons (28-3),38-45%,Iconic moment
+99,Sports,Best F1 driver of all time?,Lewis Hamilton,Michael Schumacher,Ayrton Senna,Max Verstappen,Alain Prost,Lewis Hamilton,32-40%,F1 GOAT
+100,Sports,Who wins F1 World Championship 2026?,Max Verstappen,Lando Norris,Charles Leclerc,Oscar Piastri,Lewis Hamilton,Max Verstappen,42-50%,Active championship
+101,Sports,Best F1 race of all time?,Brazil 2008,Japan 2005,Abu Dhabi 2021,Hungary 1998,Monaco 1992,Abu Dhabi 2021,32-40%,Recent classic
+102,Sports,Best Olympic moment ever?,Bolt 100m,Phelps 8 golds,Miracle on Ice,Mary Lou Retton,Tommie Smith fist,Phelps 8 golds,38-45%,Olympic legacy
+103,Sports,Best cricket player of all time?,Sachin Tendulkar,Don Bradman,Virat Kohli,Brian Lara,Vivian Richards,Sachin Tendulkar,42-50%,Cricket GOAT
+104,Sports,Who wins T20 World Cup 2026?,India,Australia,England,Pakistan,South Africa,India,38-45%,Live tournament bet
+105,Sports,Best NBA dynasty ever?,Bulls 90s,Lakers Showtime,Celtics 60s,Warriors 2010s,Spurs 00s,Bulls 90s,38-45%,Dynasty debate
+106,Tech,Best smartphone in 2026?,iPhone 17 Pro,Samsung S26 Ultra,Pixel 10 Pro,OnePlus 13,Xiaomi 15,iPhone 17 Pro,42-50%,Recent tech bet
+107,Tech,Apple or Samsung?,Apple,Samsung,,,,Apple,55-65%,Tribal tech war
+108,Tech,Will Apple lose to Samsung in 2027?,Yes,No,,,,No,55-65%,Brand prediction
+109,Tech,Best AI chatbot right now?,ChatGPT,Gemini,Claude,Grok,DeepSeek,ChatGPT,42-50%,AI race
+110,Tech,Will ChatGPT still dominate by 2027?,Yes,No,,,,Yes,55-65%,AI prediction bet
+111,Tech,Most useful AI tool for work?,ChatGPT,Claude,Notion AI,Gemini,Copilot,ChatGPT,42-50%,Productivity AI
+112,Tech,Best video AI tool 2026?,Sora,Runway,Pika,Veo,Kling,Sora,38-45%,New AI category
+113,Tech,Most innovative tech company in 2026?,OpenAI,Apple,Tesla,Nvidia,Google,Nvidia,32-40%,Tech leadership
+114,Tech,Tesla or BYD by 2027?,Tesla,BYD,,,,BYD,42-50%,EV war
+115,Tech,Most influential tech CEO right now?,Elon Musk,Sam Altman,Mark Zuckerberg,Jensen Huang,Tim Cook,Elon Musk,42-50%,CEO debate
+116,Tech,Will Apple Vision Pro succeed by 2027?,Yes,No,,,,No,55-65%,Product prediction
+117,Tech,Best smartwatch in 2026?,Apple Watch Ultra,Samsung Galaxy Watch,Garmin,Pixel Watch,Whoop,Apple Watch Ultra,55-65%,Wearable tech
+118,Tech,Best AI for coding?,GitHub Copilot,Claude,Cursor,ChatGPT,Replit AI,Cursor,32-40%,Developer fandom
+119,Tech,Most addictive social app 2026?,TikTok,Instagram,YouTube Shorts,Twitter (X),Reddit,TikTok,42-50%,Attention war
+120,Tech,Will TikTok be banned in US by 2027?,Yes,No,,,,No,55-65%,Political/tech bet
+121,Crypto,Will Bitcoin hit $200K by end of 2026?,Yes,No,,,,No,55-65%,Price prediction
+122,Crypto,Best crypto to hold for 5 years?,Bitcoin,Ethereum,Solana,XRP,BNB,Bitcoin,55-65%,Long-term bet
+123,Crypto,Will Solana flip Ethereum by 2027?,Yes,No,,,,No,55-65%,Layer-1 war
+124,Crypto,Best Layer 1 in 2026?,Ethereum,Solana,Sui,Avalanche,Cardano,Ethereum,42-50%,L1 fandom
+125,Crypto,Will SOL hit $1000 by end of 2026?,Yes,No,,,,No,55-65%,Price target bet
+126,Crypto,Best meme coin to hold?,Dogecoin,Shiba Inu,Pepe,Bonk,WIF,Dogecoin,38-45%,Meme coin fandom
+127,Crypto,Will XRP hit $10 in 2026?,Yes,No,,,,No,55-65%,XRP army bet
+128,Crypto,Best CEX in 2026?,Binance,Coinbase,Bybit,OKX,Kraken,Binance,42-50%,Exchange war
+129,Crypto,Will Ethereum hit $10K in 2026?,Yes,No,,,,No,55-65%,ETH price bet
+130,Crypto,Best AI crypto to 10x?,Bittensor,Render,Fetch.ai,Virtuals,Near,Bittensor,32-40%,AI crypto narrative
+131,Crypto,Most overhyped crypto narrative?,AI agents,Memecoins,RWA,DePIN,Restaking,Memecoins,32-40%,Hot take engagement
+132,Crypto,Will Trump pump crypto market in 2026?,Yes,No,,,,Yes,55-65%,Political crypto bet
+133,Crypto,Best gaming crypto to hold?,Immutable,Ronin,Beam,Gala,Wax,Immutable,32-40%,Gaming sector
+134,Crypto,Will memecoins outperform Bitcoin in 2026?,Yes,No,,,,No,55-65%,Sector debate
+135,Crypto,Most likely to be SEC approved as ETF next?,Solana,XRP,Litecoin,Dogecoin,Cardano,Solana,42-50%,Regulatory bet
+136,Politics,Trump or Biden more popular in own country?,Trump,Biden,,,,Trump,55-65%,Tribal politics
+137,Politics,Most influential world leader 2026?,Trump,Putin,Xi Jinping,Modi,Macron,Trump,38-45%,Power debate
+138,Politics,Will US economy enter recession in 2026?,Yes,No,,,,No,55-65%,Economic bet
+139,Politics,Most divisive politician right now?,Donald Trump,Benjamin Netanyahu,Kamala Harris,Vladimir Putin,Xi Jinping,Donald Trump,42-50%,Divisive figure
+140,Politics,Most respected world leader globally?,Macron,Modi,Lula,Trudeau,Sunak,Macron,28-35%,Soft power
+141,Politics,Will WW3 happen by 2030?,Yes,No,,,,No,55-65%,Geopolitical fear bet
+142,Politics,Most powerful country in 2030?,USA,China,Russia,India,Germany,USA,42-50%,Power projection
+143,Politics,Will China overtake US economically by 2030?,Yes,No,,,,No,55-65%,Economic bet
+144,Politics,Best US president of 21st century?,Obama,Trump,Bush Jr,Biden,,Obama,55-65%,Tribal
+145,Politics,Most controversial leader of past 10 years?,Trump,Putin,Bolsonaro,Duterte,Erdogan,Trump,42-50%,Controversy debate
+146,Anime,Greatest anime of all time?,One Piece,Naruto,Attack on Titan,Death Note,Dragon Ball Z,One Piece,32-40%,Anime GOAT
+147,Anime,Strongest anime character ever?,Goku,Saitama,Naruto,Luffy,Ichigo,Saitama,32-40%,Power scaling debate
+148,Anime,Best anime villain?,Madara,Aizen,Frieza,Light Yagami,Pain,Madara,30-38%,Villain debate
+149,Anime,Best Studio Ghibli film?,Spirited Away,Totoro,Princess Mononoke,Howls Moving Castle,Castle in the Sky,Spirited Away,42-50%,Ghibli fandom
+150,Anime,Best ongoing anime in 2026?,One Piece,Jujutsu Kaisen,My Hero Academia,Demon Slayer,Black Clover,Jujutsu Kaisen,38-45%,Active series
+151,Anime,Best shonen anime ever?,Naruto,One Piece,Dragon Ball,Bleach,My Hero Academia,One Piece,32-40%,Shonen war
+152,Anime,Best anime opening ever?,Gurren Lagann (Sorairo Days),Naruto (Blue Bird),Attack on Titan (Guren no Yumiya),JoJo (Stand Proud),Death Note (The World),Naruto (Blue Bird),32-40%,Music+anime
+153,Anime,Most overrated anime?,Naruto,Attack on Titan,SAO,My Hero Academia,Demon Slayer,SAO,30-38%,Hot take
+154,Anime,Best fight in anime history?,Naruto vs Sasuke,Goku vs Frieza,Eren vs Reiner,Luffy vs Lucci,Gon vs Pitou,Naruto vs Sasuke,32-40%,Iconic fight
+155,Anime,Best anime ending ever?,Death Note,Code Geass,Attack on Titan,Steins Gate,Erased,Code Geass,32-40%,Ending debate
+156,Gaming,Best video game of all time?,GTA V,Minecraft,The Witcher 3,Red Dead Redemption 2,Elden Ring,GTA V,38-45%,Universal gaming
+157,Gaming,Best game of 2025?,GTA 6 (if released),Elden Ring DLC,Black Myth Wukong,Final Fantasy VII Rebirth,Helldivers 2,GTA 6 (if released),42-50%,Recent release
+158,Gaming,Most anticipated game of 2026?,GTA 6,Elder Scrolls VI,Death Stranding 2,Hollow Knight Silksong,Pokemon Z-A,GTA 6,55-65%,Hype train
+159,Gaming,Best Rockstar game ever?,GTA V,Red Dead Redemption 2,GTA San Andreas,GTA Vice City,Bully,GTA V,42-50%,Studio debate
+160,Gaming,Best multiplayer game right now?,Fortnite,Call of Duty Warzone,Valorant,League of Legends,Counter-Strike 2,Fortnite,32-40%,Active games
+161,Gaming,Best Pokemon game ever?,Gold/Silver,Red/Blue,Ruby/Sapphire,Black/White,Sword/Shield,Gold/Silver,32-40%,Pokemon nostalgia
+162,Gaming,Best Zelda game?,Breath of the Wild,Ocarina of Time,Tears of the Kingdom,Twilight Princess,Wind Waker,Breath of the Wild,38-45%,Zelda fandom
+163,Gaming,Best Mario game?,Super Mario 64,Super Mario Odyssey,Super Mario World,Super Mario Galaxy,New Super Mario Bros,Super Mario 64,30-38%,Mario nostalgia
+164,Gaming,Best Final Fantasy?,FF VII,FF X,FF VI,FF XV,FF XIV,FF VII,42-50%,JRPG fandom
+165,Gaming,Best esports game?,League of Legends,CS2,Dota 2,Valorant,Mobile Legends,League of Legends,32-40%,Esports loyalty
+166,Gaming,Will GTA 6 release in 2026?,Yes,No,,,,Yes,55-65%,Release date bet
+167,Gaming,Best Souls game ever?,Elden Ring,Dark Souls 3,Bloodborne,Sekiro,Demons Souls,Elden Ring,38-45%,FromSoft fandom
+168,Gaming,Best racing game of all time?,Forza Horizon 5,Gran Turismo 7,Mario Kart 8,Need for Speed Most Wanted,F1 23,Mario Kart 8,32-40%,Racing fandom
+169,Gaming,Best fighting game right now?,Tekken 8,Street Fighter 6,Mortal Kombat 1,Smash Ultimate,Guilty Gear Strive,Tekken 8,38-45%,FGC tribal
+170,Gaming,Best indie game ever?,Stardew Valley,Hollow Knight,Hades,Undertale,Celeste,Stardew Valley,30-38%,Indie fandom
+171,Personal,Which personal service would you prefer most?,Personal masseuse,Personal chef,Personal driver,Personal trainer,Personal maid,Personal masseuse,32-40%,Lifestyle bet
+172,Personal,If you could have one for free which?,Personal chef,Personal trainer,Personal therapist,Personal stylist,Personal maid,Personal chef,32-40%,Service preference
+173,Personal,Best superpower for daily life?,Teleportation,Read minds,Stop time,Invisibility,Flying,Teleportation,38-45%,Superpower fun
+174,Personal,If you could time travel which era?,Ancient Rome,Renaissance,1920s,1980s,Future 2100,Future 2100,30-38%,Time travel fantasy
+175,Personal,Which billionaire would you want as mentor?,Elon Musk,Warren Buffett,Jeff Bezos,Mark Zuckerberg,Bill Gates,Warren Buffett,42-50%,Mentorship pick
+176,Personal,Best person to have dinner with?,Elon Musk,Barack Obama,Joe Rogan,Beyonce,Cristiano Ronaldo,Joe Rogan,28-35%,Dinner fantasy
+177,Personal,Most influential person of past decade?,Elon Musk,Donald Trump,Steve Jobs,Mark Zuckerberg,Beyonce,Elon Musk,42-50%,Influence debate
+178,Personal,If reincarnated what would you be?,Yourself again,Different person,Animal,Bird,Fish,Yourself again,32-40%,Existential fun
+179,Personal,Where does soul go after death?,Heaven/paradise,Reincarnation,Nothing,Limbo/waiting,Becomes ghost,Heaven/paradise,42-50%,Spiritual debate
+180,Personal,Hardest punishment: 1 year prison or life with your ex?,Life with your ex,1 year in prison,,,,Life with your ex,55-65%,Provocative dilemma
+181,Trending,Most popular figure in own country right now?,Trump (USA),Modi (India),Putin (Russia),Xi (China),Macron (France),Trump (USA),32-40%,Active political
+182,Trending,Who will be person of the year 2026?,Donald Trump,Elon Musk,Sam Altman,Taylor Swift,Vladimir Putin,Donald Trump,32-40%,Annual award
+183,Trending,Biggest AI fear in 2026?,Job loss,Misinformation,AI weapons,Loss of human creativity,AI taking over,Job loss,32-40%,AI anxiety
+184,Trending,Most overhyped 2026 trend?,AI girlfriends,Crypto memecoins,Smart glasses,Vertical reels,VR,AI girlfriends,32-40%,Trend skepticism
+185,Trending,Will AI replace 50% of jobs by 2030?,Yes,No,,,,No,55-65%,AI future bet
+186,Trending,Most addictive app of 2026?,TikTok,Instagram,YouTube,Twitter (X),Reddit,TikTok,42-50%,Attention bet
+187,Trending,Best YouTuber in 2026?,MrBeast,Mark Rober,Veritasium,Logan Paul,Ryan Trahan,MrBeast,55-65%,YT crown
+188,Trending,Most influential creator on TikTok?,Khaby Lame,Charli DAmelio,MrBeast,Bella Poarch,Addison Rae,Khaby Lame,38-45%,TikTok crown
+189,Trending,Best podcast of 2026?,Joe Rogan Experience,Lex Fridman,Andrew Huberman,Diary of a CEO,Theo Von,Joe Rogan Experience,42-50%,Podcast crown
+190,Trending,Most viral moment of 2025?,Drake vs Kendrick beef,Trump assassination attempt,Olympics opening,SpaceX Starship catch,Taylor Swift NFL romance,Drake vs Kendrick beef,30-38%,Recent viral
+191,Trending,Best new product launch 2025?,iPhone 17,Apple Vision Pro,GPT-5,Tesla Cybertruck,PS5 Pro,GPT-5,32-40%,Product debate
+192,Trending,Will Twitter (X) survive past 2027?,Yes,No,,,,Yes,55-65%,Platform survival
+193,Trending,Will Threads beat Twitter by 2027?,Yes,No,,,,No,55-65%,Platform war
+194,Trending,Best free AI tool right now?,ChatGPT,Claude,Gemini,DeepSeek,Perplexity,ChatGPT,42-50%,Free tool debate
+195,Trending,Will ChatGPT still be #1 AI by 2028?,Yes,No,,,,Yes,55-65%,AI dominance
+196,Trending,Will Apple release foldable iPhone by 2027?,Yes,No,,,,No,55-65%,Product roadmap
+197,Trending,Will Saudi Arabia host Esports World Cup again?,Yes,No,,,,Yes,55-65%,Esports event
+198,Trending,Will Olympics 2028 LA be successful?,Yes,No,,,,Yes,55-65%,Event prediction
+199,Trending,Will World Cup 2026 break viewing record?,Yes,No,,,,Yes,55-65%,Event prediction
+200,Trending,Most exciting esports event of 2026?,League of Legends Worlds,Counter-Strike Major,Valorant Champions,Dota 2 The International,Mobile Legends MSC,League of Legends Worlds,38-45%,Esports tribal
